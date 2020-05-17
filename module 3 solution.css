@@ -1,0 +1,19 @@
+.navbar-brand{
+	background-color: gray;
+}
+
+
+.main-head{
+    text-align: center;
+    padding: 20px;
+
+}
+.row{
+    margin: auto;
+    width: 95%;
+    background-color: #999999;
+    padding: 25px;
+}
+.row h3{
+    text-align: center;
+}
